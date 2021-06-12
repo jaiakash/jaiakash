@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone!!👋, I am Akash Jaiswal. Currently First Year Btech student at National Institute of Technology, Tiruchirappalli.
