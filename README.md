@@ -1,7 +1,7 @@
 
 <p align="center">
 </p>
-<h1 align="center">Hello Everyone!!👋, I am Akash Jaiswal. Currently First Year Btech student at National Institute of Technology, Tiruchirappalli.
+<h1 align="center">Hello Everyone!!👋, I am Akash Jaiswal.
 
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/jaiakash) [![Profile](https://visitor-badge.glitch.me/badge?page_id=jaiakash.profileviews-badge)](https://github.com/jaiakash) [![followers](https://img.shields.io/github/followers/jaiakash?style=social)](https://github.com/jaiakash?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jaiakash)[![Repos Badge](https://badges.pufler.dev/repos/jaiakash)](https://github.com/jaiakash?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akashjaiswal03/) 
 <br>
