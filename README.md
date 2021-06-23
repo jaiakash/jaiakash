@@ -7,8 +7,8 @@
 <br>
   <h4>
 - 💬 Ask me about - Android Development, Competitive programming, CTF Contest, Rooting/Custom Roms <br>
-- Platform - Unity3D, Android Studio, Linux, Xamarin <br>
-- 📫 How to reach me: Linkedin, Tiwtter, Instagram <br>
+- Platform - Unity3D, Android Studio, Xamarin <br>
+- 📫 How to reach me: Linkedin, Twitter, Instagram <br>
   </h4>
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
