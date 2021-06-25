@@ -8,6 +8,7 @@
   <h4>
 - 💬 Ask me about - Android Development, Competitive programming, CTFs, Rooting/Custom Roms <br>
 - 🌱 Platform - Android Studio, Docker, Pygame, Unity3D, Xamarin <br>
+- 🔭 Worked on - 2 Apps on playsore with 1k+ downloads, Codechef Rating 1817 
 - 📫 How to reach me: Linkedin, Twitter, Instagram <br>
   </h4>
 
