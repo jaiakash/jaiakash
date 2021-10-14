@@ -33,7 +33,7 @@
 ## Achievement
 <p>
 <a href="https://www.codechef.com/users/akashjaiswal03">
-    <img src="https://raw.githubusercontent.com/jaiakash/jaiakash/master/assets/codechef.svg" alt="Codechef image">
+    <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/akashjaiswal03&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Codechef image">
 <a href="https://play.google.com/store/apps/details?id=com.amostrone.akash.sanjeevwebsolutions&hl=en_IN&gl=US"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 </p>
   
