@@ -1,10 +1,10 @@
-
 <p align="center">
 </p>
-<h1 align="center">Hello Everyone!!👋, I am Akash Jaiswal.
+<h1 align="center">Hello Everyone, I am Akash Jaiswal 👋
   <h3 align="center">First year engineering student at NIT Tiruchirappalli</h3>
 
-[![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/jaiakash) [![Profile](https://visitor-badge.glitch.me/badge?page_id=jaiakash.profileviews-badge)](https://github.com/jaiakash) [![followers](https://img.shields.io/github/followers/jaiakash?style=social)](https://github.com/jaiakash?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jaiakash)[![Repos Badge](https://badges.pufler.dev/repos/jaiakash)](https://github.com/jaiakash?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akashjaiswal03/) 
+[![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/jaiakash) [![Profile](https://visitor-badge.glitch.me/badge?page_id=jaiakash.profileviews-badge)](https://github.com/jaiakash) [![followers](https://img.shields.io/github/followers/jaiakash?style=social)](https://github.com/jaiakash?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jaiakash)[![Repos Badge](https://badges.pufler.dev/repos/jaiakash)](https://github.com/jaiakash?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akashjaiswal03/)
+
 <br>
   <h4>
 - 💬 Ask me about - Android Development, Competitive programming, CTFs, Rooting/Custom Roms <br>
@@ -14,9 +14,8 @@
   </h4>
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-## 	Languages
+
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -30,13 +29,14 @@
 </p>
   
 ## Achievement
+
 <p>
 <a href="https://www.codechef.com/users/akashjaiswal03">
     <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/akashjaiswal03&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Codechef image">
 <a href="https://play.google.com/store/apps/details?id=com.amostrone.akash.sanjeevwebsolutions&hl=en_IN&gl=US"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 </p>
   
-## 	:email:Find me on:
+## :email:Find me on
 
 <p>
 <a href="mailto:akashjaiswal3846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
