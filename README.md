@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋
-  <h3 align="center">Software Dev @<a href="https://delta.nitt.edu">Delta Force</a> | Technical Coordinator @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | MLSA @<a href="https://www.microsoft.com">Microsoft</a></h3>
+  <h3 align="center">GSoC'22 student @CCExtractor | Software Dev @<a href="https://delta.nitt.edu">Delta Force</a> | Technical Coordinator @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | MLSA @<a href="https://www.microsoft.com">Microsoft</a></h3>
   <h3 align="center">Web developer | App developer | Sophomore at NIT Trichy </h3>
 
 <br>
