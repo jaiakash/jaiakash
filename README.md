@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋
-  <h3 align="center"><a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> contributor CCExtractor | Depty Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
+  <h3 align="center"><a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> contributor CCExtractor | Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity"> Befikra Community </a> | Depty Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
   <h3 align="center">Web developer | App developer | Sophomore at NIT Trichy </h3>
 
 <br>
