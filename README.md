@@ -1,20 +1,13 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋
-  <h3 align="center"><a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> Contributor @CCExtractor | Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity"> Befikra Community </a> | Deputy Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
-  <h3 align="center">Web developer | App developer | Sophomore at NIT Trichy </h3>
+  <h3 align="center"> Upcoming Application Developer Intern <a href="https://github.com/oracle"> Oracle </a> | <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> Contributor @CCExtractor | Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity"> Befikra Community </a> | Deputy Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
+  <h3 align="center">Web developer | App developer | Pre-Final Year at NIT Trichy </h3>
 
-<br>
-  <h4>
-- 💬 Ask me about - Android Development, Competitive programming, CTFs, Rooting/Custom Roms <br>
-- 🌱 Platform - Android Studio, Docker, Pygame, Unity3D, Xamarin <br>
-- 🔭 Worked on - 2 Apps on Playsore with 1k+ downloads, Codechef Rating 1817 <br>
-- 📫 How to reach me: Linkedin, Twitter, Instagram <br>
-  </h4>
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages
+## Tech Stacks
 
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -31,15 +24,24 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
   
-## Achievement
-
-<p>
-<a href="https://www.codechef.com/users/akashjaiswal03">
-    <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/akashjaiswal03&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Codechef image">
-<a href="https://play.google.com/store/apps/details?id=com.amostrone.akash.sanjeevwebsolutions&hl=en_IN&gl=US"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
-</p>
+## Achievements
   
-## :email:Find me on
+• Contributor at CC Extractor org for [Google Summer of Code 2022](https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09), out of 4000+ applicants from 96 countries.
+  
+• Completed Kharagpur Winter of Code 2021 with 5+ project contributions. [Details](https://kwoc21.kossiitkgp.org/stats/student/jaiakash)
+  
+• 3rd position in ICY Cup and 3rd position in Code Connoisseurs conducted by Spider – R&D Club of NIT
+Trichy | 2021
+  
+• Code chef Global Rank 194 Div. 2 in International Coding Marathon IIT BHU 2021. [Codechef](https://www.codechef.com/rankings/ICM2021B?itemsPerPage=100&order=asc&page=1&search=akashjaiswal03&sortBy=rank)
+  
+• 2nd prize in Covalent Competition (Technical Bounty) Inter NIT CONCLAVE-X 2022. Created an NFT
+Crypto sheet for NFT data using Covalent APIs.
+  
+• 1st prize in Crypto trader - Cogni 2022 IIT Roorkee and 2nd Prize in Cryptocon – Rendezvous 2022 IIT
+Delhi
+  
+## Find me on
 
 <p>
 <a href="mailto:akashjaiswal3846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
