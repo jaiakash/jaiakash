@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋
-  <h3 align="center">GSoC'22 student @CCExtractor | Software Dev @<a href="https://delta.nitt.edu">Delta Force</a> | Technical Coordinator @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | MLSA @<a href="https://www.microsoft.com">Microsoft</a></h3>
+  <h3 align="center"><a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> contributor CCExtractor | Depty Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
   <h3 align="center">Web developer | App developer | Sophomore at NIT Trichy </h3>
 
 <br>
@@ -49,9 +49,3 @@
 <a href="https://www.instagram.com/a_kashhhhhh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.quora.com/profile/Akash-Jaiswal-116"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 </p>
-  
-## Recent Activity
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
