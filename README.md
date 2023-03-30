@@ -6,6 +6,8 @@
 
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![](https://komarev.com/ghpvc/?username=jaiakash)
 
 ## Tech Stacks
 
