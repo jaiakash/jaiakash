@@ -42,6 +42,9 @@ Crypto sheet for NFT data using Covalent APIs.
   
 • 1st prize in Crypto trader - Cogni 2022 IIT Roorkee and 2nd Prize in Cryptocon – Rendezvous 2022 IIT
 Delhi
+
+[![jaiakash's GitHub | Topics](https://stats.quine.sh/jaiakash/topics-over-time?theme=dark)](https://quine.sh)
+[![jaiakash's GitHub | Stats](https://stats.quine.sh/jaiakash/github?theme=dark)](https://quine.sh)
   
 ## Find me on
 
