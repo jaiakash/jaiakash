@@ -9,6 +9,11 @@
   
   ![](https://komarev.com/ghpvc/?username=jaiakash)
 
+![gitartwork](gitartwork.svg)
+  <picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 ## Tech Stacks
 
 <p>
