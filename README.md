@@ -1,8 +1,9 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋
-  <h3 align="center"><a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> Contributor @CCExtractor | Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity"> Befikra Community </a> | Deputy Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
-  <h3 align="center">Web developer | App developer | Pre-Final Year at NIT Trichy </h3>
+  <h3 align="center"> Incoming SDE @Oracle </h3> 
+  <h3>Prev: Project Intern @Oracle | <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> Contributor @CCExtractor | SDE @DharmikAapp | Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity"> Befikra Community </a> | Microsft Learn Student Ambassador @<a href="https://www.microsoft.com">Microsoft</a></h3>
+  <h3 align="center">Web developer | App developer | Final Year at NIT Trichy </h3>
 
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
