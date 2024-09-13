@@ -22,7 +22,7 @@ jobs:
             # Options
             user: jaiakash
             template: classic
-            base: activity, repositories
+            base: activity
             config_timezone: Asia/Calcutta
 
             plugin_activity: yes
