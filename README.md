@@ -15,11 +15,6 @@
   Microsoft Learn Student Ambassador @<a href="https://www.microsoft.com">Microsoft</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical" alt="Akash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical" alt="Top Languages" />
-</p>
-
 <h2 align="center">:zap: Recent Activity</h2>
    <picture>
     <img src="/github-metrics.svg" alt="Metrics">
