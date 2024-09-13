@@ -20,13 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <picture>
-    <img src="/github-metrics.svg" alt="Metrics">
-  </picture>
-  <img src="gitartwork.svg" alt="Git Artwork" />
-</p>
-
 <h2 align="center">Tech Stacks</h2>
 
 <p align="center">
@@ -84,9 +77,8 @@
 
 <p align="center">
  :zap: Recent Activity
-  <!--START_SECTION:activity-->
-
-
-  <!--END_SECTION:activity-->
+ <picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
 
 </p>
