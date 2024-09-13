@@ -44,6 +44,10 @@
 <h2 align="center">Achievements</h2>
 
 <ul>
+  <li>Led the <strong><a href="https://www.instagram.com/tecos.nitt/">TeCOS</a></strong> open source community at NIT Trichy, growing from 200+ to over 1000 members.</li>
+  <li>Awarded a fully funded scholarship by <strong>IIIT Hyderabad</strong> and <strong>Wikimedia Foundation</strong> to attend the 2nd Wikimedia Summit.</li>
+  <li>Delivered a keynote at <strong>Twitter Space</strong> on "Open Source in Web2.0, Web3.0, and Metaverse" <a href="https://x.com/girlscriptsoc/status/1685742096727334912">organized by GSSOC</a> and Presented at <strong>GDSC NIT Silchar</strong> and <strong>GDSC NIT Trichy</strong> on "Git it Done," <a href="https://www.youtube.com/watch?v=hUftYgmZopY">with over 200 participants</a>.</li>
+  <li>Served as Technical Secretary 2023-2024 at <a href="https://nitt.edu/home/students/clubsnassocs/techclubs/">NIT Trichy</a>, managing 17 technical clubs and organizing <strong>TransfiNITTe</strong>, an annual hackathon at NIT Trichy, featuring 50+ teams and a prize pool of over 5 lakhs.</li>
   <li>Contributor at CC Extractor for <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">Google Summer of Code 2022</a>, out of 4000+ applicants from 96 countries.</li>
   <li>Completed Kharagpur Winter of Code 2021 with 5+ project contributions. <a href="https://kwoc21.kossiitkgp.org/stats/student/jaiakash">Details</a></li>
   <li>3rd position in ICY Cup and 3rd position in Code Connoisseurs conducted by Spider – R&D Club of NIT Trichy | 2021</li>
