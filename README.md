@@ -78,3 +78,12 @@
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora">
   </a>
 </p>
+
+<p align="center">
+ :zap: Recent Activity
+  <!--START_SECTION:activity-->
+
+
+  <!--END_SECTION:activity-->
+
+</p>
