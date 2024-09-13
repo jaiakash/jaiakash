@@ -21,6 +21,9 @@
 </p>
 
 <p align="center">
+  <picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
   <img src="gitartwork.svg" alt="Git Artwork" />
 </p>
 
