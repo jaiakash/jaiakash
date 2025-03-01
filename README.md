@@ -12,7 +12,7 @@
   <a href="https://github.com/OWASP">OWASP</a>,  
   <a href="https://github.com/oppia">Oppia</a>,  
   <a href="https://github.com/cncf">CNCF</a>,  
-  <a href="https://github.com/google">Google</a> 
+  <a href="https://github.com/google">Google</a>, 
   <a href="https://github.com/volcano-sh">Volcano</a> and
   <a href="https://github.com/keploy">Keploy</a>
 </p>
