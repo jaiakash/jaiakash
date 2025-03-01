@@ -7,12 +7,20 @@
 </p>
 
 <p align="center">
+  Contributor to <a href="https://p5js.org/events/stf-2024/">p5.js</a>,  
+  <a href="https://github.com/kubeflow">Kubeflow</a>,  
+  <a href="https://github.com/OWASP">OWASP</a>,  
+  <a href="https://github.com/oppia">Oppia</a>,  
+  <a href="https://github.com/cncf">CNCF</a>,  
+  <a href="https://github.com/google">Google</a>, and  
+  <a href="https://github.com/volcano-sh">Volcano</a>
+  <a href="https://github.com/keploy">Keploy</a>
+</p>
+
+<p align="center">
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22</a> Contributor @CCExtractor |
-  Contributor to <a href="https://p5js.org/events/stf-2024/">p5.js</a> |
-  Project Intern @Oracle |
-  SDE @DharmikAapp |
-  Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity">Befikra Community</a> |
-  Microsoft Learn Student Ambassador @<a href="https://www.microsoft.com">Microsoft</a>
+  Project Intern <a href="https://github.com/oracle">@Oracle</a> |
+  3x Startup Intern |
 </p>
 
 <h2 align="center">:zap: Recent Activity</h2>
