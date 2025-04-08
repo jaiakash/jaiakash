@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="945" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1272" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -44,7 +44,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            398 issue comments
+                            401 issue comments
                         </div>
                     </section>
                 </div>
@@ -216,7 +216,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 30 commits)</small>
+                    <small class="h-details">(computed from last 35 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -238,16 +238,409 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#811 Request: Interactive environment/Playground for kubeflow</span>
+                                        Pushed 29 commits in
+                                        <span class="repo">jaiakash/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by milinddethe15 in <span class="repo">kubeflow/community</span></div>
-                                    <div class="comment">Oracle and CNCF are in talk, where Oracle is planning to donate infrastructure to CNCF.</div>
+                                    <div>on branch <span class="code">social-media-icon</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b4f1910</div>
+                                        <div class="message">model-registry: update the installation guide (#4042)
+
+I found installing model registry from the instructions on the website
+to be rather hard to do. The instructions don't actually have all the
+steps needed, so it sent me to the README in the manifests repo. Which,
+confusingly, sent me right back to the website. Neither document is
+entirely complete so I had to coble together bits from both places.
+
+I'm assuming these instructions are primarily useful to existing
+Kubeflow users who want to try out model registry so I've rewritten the
+"Installing on Kubeflow Platform" section with the idea to get those
+users up and running quickly. I'm further assuming that these users will
+want the UI (I mean, it's a good UI, who wouldn't?) so we can cut the
+"if you want the UI verbage" and simplify some of the commands.
+
+Signed-off-by: Paul Boyd &lt;pboyd@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11d6166</div>
+                                        <div class="message">spark-operator: customize spark operator (#4040)
+
+Signed-off-by: Yi Chen &lt;github@chenyicn.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a57d03</div>
+                                        <div class="message">model-registry: bump version to v0.2.15 (#4046)
+
+Signed-off-by: Matteo Mortari &lt;matteo.mortari@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59469d8</div>
+                                        <div class="message">trainer: update get-started example of trainer. (#4041)
+
+Signed-off-by: Electronic-Waste &lt;2690692950@qq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7641d3</div>
+                                        <div class="message">feat: Kubeflow Spark Operator Benchmarks Docs (#4030)
+
+* feat: Spark Operator Benchmarks Docs
+
+Signed-off-by: Vara Bonthu &lt;vara.bonthu@gmail.com&gt;
+
+* Fixed image links in the doc
+
+Signed-off-by: Vara Bonthu &lt;vara.bonthu@gmail.com&gt;
+
+* Updated with links and added Future work and ACK section
+
+Signed-off-by: Vara Bonthu &lt;vara.bonthu@gmail.com&gt;
+
+---------
+
+Signed-off-by: Vara Bonthu &lt;vara.bonthu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb10cda</div>
+                                        <div class="message">Fix Scheduling Policy doc for MPIJob (#4033)
+
+Signed-off-by: ttakahashi21 &lt;takafumi.takahashi@hitachivantara.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdd6900</div>
+                                        <div class="message">website: Issue4002 GitHub action to check pr title (#4018)
+
+* added requested check
+
+Signed-off-by: Vikas Saxena &lt;Vikas.Saxena.2006@gmail.com&gt;
+
+* making error message more meaningful
+
+Signed-off-by: Vikas Saxena &lt;Vikas.Saxena.2006@gmail.com&gt;
+
+* make the check case insensitive
+
+Signed-off-by: Vikas Saxena &lt;Vikas.Saxena.2006@gmail.com&gt;
+
+* Revert "make the check case insensitive"
+
+This reverts commit d73b14aeacddc33e2e22a03ba706fe0a2449dad9.
+
+Signed-off-by: Vikas Saxena &lt;Vikas.Saxena.2006@gmail.com&gt;
+
+* modified error message to include possible values of components
+
+Signed-off-by: Vikas Saxena &lt;Vikas.Saxena.2006@gmail.com&gt;
+
+---------
+
+Signed-off-by: Vikas Saxena &lt;Vikas.Saxena.2006@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8595d5</div>
+                                        <div class="message">Fix link to the trainer python sdk (#4037)
+
+Signed-off-by: arnabnandikgp &lt;arnabnandi2002@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56f27bf</div>
+                                        <div class="message">fix: SeaweedFS PoC link in GSoC project (#4031)
+
+Signed-off-by: M!l!nd &lt;99114125+milinddethe15@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04993fa</div>
+                                        <div class="message">website: Update GSoC projects with LLM-powered docs (#4026)
+
+* website: Update GSoC projects with LLM-powered docs
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+
+* Update mentors
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+
+* Add mentors
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+
+* Add more mentors
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+
+---------
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cb931d</div>
+                                        <div class="message">Add model registry UI installation instructions (#4013)
+
+Signed-off-by: Lucas Fernandez &lt;lucasfernandezaragon@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d824825</div>
+                                        <div class="message">clarify installation options (#4028)
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da311eb</div>
+                                        <div class="message">chore: Bump kfp latest version to 2.4.0 (#4027)
+
+Signed-off-by: Chen Sun &lt;chensun@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#565891d</div>
+                                        <div class="message">Update of the support page (#4021)
+
+* restructuring
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* refinements
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update support.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update support.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Spelling
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/docs/started/support.md
+
+Co-authored-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update support.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/docs/started/support.md
+
+Co-authored-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update support.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update support.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update support.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+Co-authored-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0223cc3</div>
+                                        <div class="message">model-registry: bump version to v0.2.14 (#4022)
+
+Signed-off-by: Paul Boyd &lt;pboyd@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#816df01</div>
+                                        <div class="message">gsoc: remove project 9 &amp; update mentors (#4017)
+
+* fix: remove prject kubernetes native sidecar containers for metrics collector.
+
+Signed-off-by: Electronic-Waste &lt;2690692950@qq.com&gt;
+
+* chore: add rudeigerc as backup mentor for project 10.
+
+Signed-off-by: Electronic-Waste &lt;2690692950@qq.com&gt;
+
+* chore: add (Training Operator).
+
+Signed-off-by: Electronic-Waste &lt;2690692950@qq.com&gt;
+
+---------
+
+Signed-off-by: Electronic-Waste &lt;2690692950@qq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47216fc</div>
+                                        <div class="message">gsoc: Update mentors for Kubeflow GSoC 2025 (#4016)
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#501d3c5</div>
+                                        <div class="message">Update manifests description (#4014)
+
+* Update index.md
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/docs/started/installing-kubeflow/index.md
+
+Co-authored-by: Johnu George &lt;johnu.george@nutanix.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+Co-authored-by: Johnu George &lt;johnu.george@nutanix.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dae073</div>
+                                        <div class="message">Gsoc 2025 formatting (#4015)
+
+* Clean Up GSoC 2025 Project Formatting
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Re-add Helm + IDE Projects
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* keep the original scope that the mentors had in mind.
+
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/events/upcoming-events/gsoc-2025.md
+
+Co-authored-by: Shao Wang &lt;77665902+Electronic-Waste@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/events/upcoming-events/gsoc-2025.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/events/upcoming-events/gsoc-2025.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/events/upcoming-events/gsoc-2025.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/events/upcoming-events/gsoc-2025.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+* Update content/en/events/upcoming-events/gsoc-2025.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: juliusvonkohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+Signed-off-by: Julius von Kohout &lt;45896133+juliusvonkohout@users.noreply.github.com&gt;
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Co-authored-by: Shao Wang &lt;77665902+Electronic-Waste@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a9eeff</div>
+                                        <div class="message">Small updates to Central Dashboard docs (#3946)
+
+* update fix/broken links
+
+Signed-off-by: varodrig &lt;varodrig@redhat.com&gt;
+
+* minor updates to documentation
+
+Signed-off-by: varodrig &lt;varodrig@redhat.com&gt;
+
+* Update content/en/docs/components/central-dash/profiles.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Valentina Rodriguez Sosa &lt;64439402+varodrig@users.noreply.github.com&gt;
+
+* Update content/en/docs/components/central-dash/customize.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Valentina Rodriguez Sosa &lt;64439402+varodrig@users.noreply.github.com&gt;
+
+* Update content/en/docs/components/central-dash/profiles.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Valentina Rodriguez Sosa &lt;64439402+varodrig@users.noreply.github.com&gt;
+
+* Update content/en/docs/components/central-dash/profiles.md
+
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Signed-off-by: Valentina Rodriguez Sosa &lt;64439402+varodrig@users.noreply.github.com&gt;
+
+* remove lines
+
+Signed-off-by: varodrig &lt;varodrig@redhat.com&gt;
+
+* fix typos
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* fix typos 2
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: varodrig &lt;varodrig@redhat.com&gt;
+Signed-off-by: Valentina Rodriguez Sosa &lt;64439402+varodrig@users.noreply.github.com&gt;
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+Co-authored-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -259,14 +652,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#811 Request: Interactive environment/Playground for kubeflow</span>
+                                        <span class="issue">#4044 website: add civo as kf platform</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by milinddethe15 in <span class="repo">kubeflow/community</span></div>
-                                    <div class="comment">Also for https://github.com/kubeflow/trainer/issues/2432
-I have DMed you my GSoC proposal in Slack. Can you please review it?
-Thanks</div>
+                                    <div>opened by jaiakash in <span class="repo">kubeflow/website</span></div>
+                                    <div class="comment">/ok-to-test</div>
                                 </div>
                             </section>
                         </div>
@@ -278,24 +669,12 @@ Thanks</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#811 Request: Interactive environment/Playground for kubeflow</span>
+                                        <span class="issue">#4044 website: add civo as kf platform</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by milinddethe15 in <span class="repo">kubeflow/community</span></div>
-                                    <div class="comment">Hi @andreyvelich @varodrig,
-This initiative could significantly benefit new users by allowing them to experiment with sample code and fully engage with the KubeFlow ecosystem. Additionally, showcasing this at various KubeCons and providing an interactive environment for the audience would greatly benefit our community.
-Here is my plan:
-First, I propose setting up a playground infrastructure where the audience can:
-
-Experiment with sample ML workflows and notebooks
-Immerse themselves in the complete KubeFlow ecosystem
-Fine-tune models using KubeFlow infrastructure
-Learn through hands-on experimentation
-This aligns with the effort in https://github.com/kubeflow/trainer/issues/2432
-
-Second, we need to implement safeguards to prevent misuse, given our limited GPU infrastructure. One option is to implement GitHub OAuth and provide access on an as-needed basis during KubeCon.
-I would love to hear your thoughts on this approach.</div>
+                                    <div>opened by jaiakash in <span class="repo">kubeflow/website</span></div>
+                                    <div class="comment">Hi @rimolive, can you please allow other CI checks on this PR,</div>
                                 </div>
                             </section>
                         </div>
@@ -306,15 +685,15 @@ I would love to hear your thoughts on this approach.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaiakash/gsoc-2025-proposal-kubeflow-llm-blueprint</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">jaiakash/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">add-civo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf11b6b</div>
-                                        <div class="message">linked milestone</div>
+                                        <div class="sha">#4516d64</div>
+                                        <div class="message">Merge branch 'master' into add-civo</div>
                                     </div>
                                 </div>
                             </section>
@@ -326,15 +705,111 @@ I would love to hear your thoughts on this approach.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaiakash/gsoc-2025-proposal-kubeflow-llm-blueprint</span>
+                                        Pushed 5 commits in
+                                        <span class="repo">jaiakash/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e18a8a6</div>
-                                        <div class="message">refactor</div>
+                                        <div class="sha">#71522b5</div>
+                                        <div class="message">community: Improve Kubeflow Ecosystem diagram (#4038)
+
+* Improve Kubeflow Ecosystem diagram
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Make separate Kubernetes layer
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* General improvements
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* rename "Integrations" to "AI Ecosystem"
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f32d04</div>
+                                        <div class="message">website: Add the 1.10 Kubeflow release notes, and fix 1.9 release notes (#4069)
+
+Signed-off-by: Ricardo M. Oliveira &lt;rmartine@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44cb9ba</div>
+                                        <div class="message">gsoc: add proposal guide to 2025 page (#4070)
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f092f1</div>
+                                        <div class="message">website: Add dark theme (#3981)
+
+* Add dark theme to website
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Fix white borders on images in dark mode
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Fix tables in dark mode
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Fix home action buttons on very small screens
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Undo architecture diagram changes
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Update trainer homepage copy based on review
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Make variables for KF colors
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Update search colors based on review
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Use project logos with words on homepage
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+* Make home section borders gray
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;
+
+---------
+
+Signed-off-by: Mathew Wicks &lt;5735406+thesuperzapper@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d116f2d</div>
+                                        <div class="message">trainer: Update Slack channel (#4059)
+
+* trainer: Update Slack channel
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+
+* Fix link
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
+
+---------
+
+Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
