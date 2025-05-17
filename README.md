@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+  <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow |
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22</a> Contributor @CCExtractor |
   Project Intern <a href="https://github.com/oracle">@Oracle</a> |
   3x Startup Intern |
