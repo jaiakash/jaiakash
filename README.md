@@ -20,7 +20,11 @@
 <p align="center">
   <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow |
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22</a> Contributor @CCExtractor |
+</p>
+
+<p align="center">
   Project Intern <a href="https://github.com/oracle">@Oracle</a> |
+  Founding Engineer DharmikApp and Connectezy-App
   3x Startup Intern |
 </p>
 
