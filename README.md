@@ -35,18 +35,43 @@
 
 <h2 align="center">Achievements</h2>
 
+<h2 align="center">Achievements</h2>
+
+<h3>🟦 2025</h3>
 <ul>
-  <li>Led the <strong><a href="https://www.instagram.com/tecos.nitt/">TeCOS</a></strong> open source community at NIT Trichy, growing from 200+ to over 1000 members.</li>
-  <li>Awarded a fully funded scholarship by <strong>IIIT Hyderabad</strong> and <strong>Wikimedia Foundation</strong> to attend the 2nd Wikimedia Summit.</li>
-  <li>Delivered a keynote at <strong>Twitter Space</strong> on "Open Source in Web2.0, Web3.0, and Metaverse" <a href="https://x.com/girlscriptsoc/status/1685742096727334912">organized by GSSOC</a> and Presented at <strong>GDSC NIT Silchar</strong> and <strong>GDSC NIT Trichy</strong> on "Git it Done," <a href="https://www.youtube.com/watch?v=hUftYgmZopY">with over 200 participants</a>.</li>
-  <li>Served as Technical Secretary 2023-2024 at <a href="https://nitt.edu/home/students/clubsnassocs/techclubs/">NIT Trichy</a>, managing 17 technical clubs and organizing <strong>TransfiNITTe</strong>, an annual hackathon at NIT Trichy, featuring 50+ teams and a prize pool of over 5 lakhs.</li>
-  <li>Contributor at CC Extractor for <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">Google Summer of Code 2022</a>, out of 4000+ applicants from 96 countries.</li>
-  <li>Completed Kharagpur Winter of Code 2021 with 5+ project contributions. <a href="https://kwoc21.kossiitkgp.org/stats/student/jaiakash">Details</a></li>
-  <li>3rd position in ICY Cup and 3rd position in Code Connoisseurs conducted by Spider – R&D Club of NIT Trichy | 2021</li>
-  <li>Codechef Global Rank 194 Div. 2 in International Coding Marathon IIT BHU 2021. <a href="https://www.codechef.com/rankings/ICM2021B?itemsPerPage=100&order=asc&page=1&search=akashjaiswal03&sortBy=rank">Codechef</a></li>
-  <li>2nd prize in Covalent Competition (Technical Bounty) Inter NIT CONCLAVE-X 2022. Created an NFT Crypto sheet for NFT data using Covalent APIs.</li>
-  <li>1st prize in Crypto trader - Cogni 2022 IIT Roorkee and 2nd Prize in Cryptocon – Rendezvous 2022 IIT Delhi</li>
+  <li>Contributed to <strong>Google Summer of Code 2025</strong> under <strong>Kubeflow (CNCF)</strong>. <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">Project Link</a></li>
+  <li>Wrote a featured CNCF blog: <a href="https://www.cncf.io/blog/2025/03/17/kubecon-cloudnativecon-india-2024-from-dreams-to-reality-journey/">"KubeCon + CloudNativeCon India 2024 – From Dreams to Reality"</a>.</li>
 </ul>
+
+<h3>🟩 2024</h3>
+<ul>
+  <li>Selected as a <strong>Mentor</strong> at <a href="https://www.linkedin.com/posts/hackthisfall_hackthisfallvirtual-hackthisfall-htfcommunity-activity-7260329712516747264-ROSL?utm_source=share&utm_medium=member_desktop">Hack This Fall Hackathon</a>, mentoring developers in ideation and execution.</li>
+  <li>Invited as a <strong>GSoC Speaker</strong> at the <a href="https://www.linkedin.com/posts/gdgcnits_gdsc-gdscnits-gdscnitt-activity-7119343964385673216-Txva?utm_source=share&utm_medium=member_desktop">GDSC GSoC event</a>, sharing insights on open source journey.</li>
+  <li>Speaker at <strong>GirlScript Summer of Code (GSSoC)</strong>. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091509261272305664?utm_source=share&utm_medium=member_desktop">View Post</a></li>
+  <li>Delivered a <strong>session on Internship Preparation</strong> at <a href="https://www.linkedin.com/posts/builders-hive-nit-trichy_with-the-intense-internship-season-taking-activity-7108397779118424065-anBt?utm_source=share&utm_medium=member_desktop">NIT Trichy</a>, attended by 150+ students.</li>
+  <li>Delivered a keynote in a <strong>Twitter Space</strong> titled “Open Source in Web2.0, Web3.0, and Metaverse,” <a href="https://x.com/girlscriptsoc/status/1685742096727334912">organized by GSSOC</a>.</li>
+  <li>Served as <strong>Technical Secretary (2023–24)</strong> at <a href="https://nitt.edu/home/students/clubsnassocs/techclubs/">NIT Trichy</a>, overseeing 17 tech clubs and organizing <strong>TransfiNITTe</strong> Hackathon (50+ teams, ₹5L+ prize pool).</li>
+  <li>Conducted "Git it Done" sessions at <strong>GDSC NIT Silchar</strong> and <strong>GDSC NIT Trichy</strong> with 200+ participants. <a href="https://www.youtube.com/watch?v=hUftYgmZopY">Watch</a></li>
+</ul>
+
+<h3>🟨 2023</h3>
+<ul>  
+  <li>Selected as a <strong>Microsoft Learn Student Ambassador (MLSA)</strong>. <a href="https://www.linkedin.com/posts/akashjaiswal03_microsoft-india-experience-activity-6986299246236872704-C49v?utm_source=share&utm_medium=member_desktop">Details</a></li>
+  <li>Led <strong><a href="https://www.instagram.com/tecos.nitt/">TeCOS</a></strong>, the NIT Trichy open source community, growing it from 200+ to 1000+ active members.</li>
+  <li>Awarded a fully funded scholarship by <strong>IIIT Hyderabad</strong> and the <strong>Wikimedia Foundation</strong> to attend the 2nd Wikimedia Technology Summit.</li>
+</ul>
+
+<h3>⬜ Earlier Achievements</h3>
+<ul>
+  <li>Contributor at <strong>CCExtractor</strong> during <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">Google Summer of Code 2022</a>, selected from 4000+ applicants across 96 countries.</li>
+  <li>2nd prize in <strong>Covalent Technical Bounty</strong> – Inter NIT Conclave-X 2022. Built an NFT data tool using Covalent APIs.</li>
+  <li>1st prize in <strong>Crypto Trader</strong> – Cogni 2022, IIT Roorkee and 2nd prize in <strong>CryptoCon</strong> – Rendezvous 2022, IIT Delhi.</li>
+  <li>Completed <strong>Kharagpur Winter of Code 2021</strong> with 5+ open source contributions. <a href="https://kwoc21.kossiitkgp.org/stats/student/jaiakash">Profile</a></li>
+  <li>3rd place in both <strong>ICY Cup</strong> and <strong>Code Connoisseurs</strong>, NIT Trichy, 2021.</li>
+  <li>Global Rank 194 (Div. 2) in CodeChef <a href="https://www.codechef.com/rankings/ICM2021B?itemsPerPage=100&order=asc&page=1&search=akashjaiswal03&sortBy=rank">International Coding Marathon, IIT BHU 2021</a>.</li>
+</ul>
+
+
 
 <h2 align="center">Find me on</h2>
 
