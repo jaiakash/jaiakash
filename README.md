@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow |
+<!--   <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow | -->
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22</a> Contributor @CCExtractor |
 </p>
 
@@ -40,7 +40,7 @@
 <h3>🟦 2025</h3>
 <ul>
   <li>Awarded <strong><a href="https://www.linuxfoundation.org/about/lift-scholarships">LiFT Scholarship</a></strong> scholarships by the Linux Foundation for open source contributions.</li>
-  <li>Contributed to <strong>Google Summer of Code 2025</strong> under <strong>Kubeflow (CNCF)</strong>. <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">Project Link</a></li>
+<!--   <li>Contributed to <strong>Google Summer of Code 2025</strong> under <strong>Kubeflow (CNCF)</strong>. <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">Project Link</a></li> -->
   <li>Wrote a featured CNCF blog: <a href="https://www.cncf.io/blog/2025/03/17/kubecon-cloudnativecon-india-2024-from-dreams-to-reality-journey/">"KubeCon + CloudNativeCon India 2024 – From Dreams to Reality"</a>.</li>
 </ul>
 
