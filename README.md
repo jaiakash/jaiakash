@@ -35,8 +35,6 @@
 
 <h2 align="center">Achievements</h2>
 
-<h2 align="center">Achievements</h2>
-
 <h3>🟦 2025</h3>
 <ul>
   <li>Awarded <strong><a href="https://www.linuxfoundation.org/about/lift-scholarships">LiFT Scholarship</a></strong> scholarships by the Linux Foundation for open source contributions.</li>
