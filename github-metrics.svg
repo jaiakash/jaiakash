@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1146" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="860" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1804 Commits
+                            1805 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -31,20 +31,20 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            70 Pull requests opened
+                            71 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            64 Issues opened
+                            65 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            449 issue comments
+                            452 issue comments
                         </div>
                     </section>
                 </div>
@@ -204,7 +204,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 43 commits)</small>
+                    <small class="h-details">(computed from last 47 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -236,8 +236,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">support-for-gpu-cluster-using-oci-runner</span></div>
                                     <div class="commit">
-                                        <div class="sha">#268768f</div>
-                                        <div class="message">fix: notebookpath and delete cluster
+                                        <div class="sha">#d3506e7</div>
+                                        <div class="message">tmp fix: notebook to use k8s client
 
 Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
                                     </div>
@@ -256,10 +256,10 @@ Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">support-for-gpu-cluster-using-oci-runner</span></div>
+                                    <div>on branch <span class="code">tmp-label-check</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5790054</div>
-                                        <div class="message">fix: gpu cluster and torchtune model
+                                        <div class="sha">#b2f7e11</div>
+                                        <div class="message">fix: jupiter notebook
 
 Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
                                     </div>
@@ -270,21 +270,16 @@ Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaiakash/trainer</span>
+                                        Opened
+                                        <span class="issue">#78 fix: trainer client backend public</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#377ce56</div>
-                                        <div class="message">chore: deflake test to ensure runtime is created before creating trainjob (#2807)
-
-Signed-off-by: Tsubasa Nagasawa &lt;toversus2357@gmail.com&gt;</div>
-                                    </div>
+                                    <div> in <span class="repo">kubeflow/sdk</span></div>
+                                    <div>1 file changed <span class="code">++10 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -292,21 +287,16 @@ Signed-off-by: Tsubasa Nagasawa &lt;toversus2357@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaiakash/trainer</span>
+                                        Commented on
+                                        <span class="issue">#77 Expose backend in TrainerClient for direct access"</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">support-for-gpu-cluster-using-oci-runner</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44030e9</div>
-                                        <div class="message">fix: nvidia issue
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
+                                    <div>opened by jaiakash in <span class="repo">kubeflow/sdk</span></div>
+                                    <div class="comment">/area trainer</div>
                                 </div>
                             </section>
                         </div>
@@ -314,172 +304,16 @@ Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">jaiakash/trainer</span>
+                                        Commented on
+                                        <span class="issue">#77 Expose backend in TrainerClient for direct access"</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">support-for-gpu-cluster-using-oci-runner</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7c9ce64</div>
-                                        <div class="message">fix: create gpu supported gpu
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc01280</div>
-                                        <div class="message">fix: revert changes and fix script permission
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6195cf</div>
-                                        <div class="message">fix: use gpu runner when label exist
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccf9d0d</div>
-                                        <div class="message">fixL run runner as soon as label is added
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0992ae</div>
-                                        <div class="message">chore: merged into single action
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f38cef9</div>
-                                        <div class="message">hotfix: add gpu label on PR without merging
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c3f17d</div>
-                                        <div class="message">fix: deepspeed typo
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#106e2ff</div>
-                                        <div class="message">feat: added seperate workflow for gpu runner
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ee2921</div>
-                                        <div class="message">fix: run check on change in pr
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a32d199</div>
-                                        <div class="message">chore: fixed issues and cleanup
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e011c07</div>
-                                        <div class="message">add: ci action to ask maintainers to add label to when changes are detected
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcc01f0</div>
-                                        <div class="message">fix: makefile bug
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebb17bc</div>
-                                        <div class="message">feat: support for creating and managing gpu cluster
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c9784a</div>
-                                        <div class="message">feat: KEP-2432: GPU Testing for LLM Blueprints (#2689)
-
-* kep: added kep for gsoc25 project 7
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
-* format: formatted kep with kubeflow kep template
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
-* format: removed todo list and timeline
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
-* format: removed screenshots
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
-* fix: pre commit check
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
-* fix: scope and review comments from Andrey
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
-* add: updated KEP and added tf file for setup
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;
-
----------
-
-Signed-off-by: Akash Jaiswal &lt;akashjaiswal3846@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10a4723</div>
-                                        <div class="message">chore(docs): Add license scan report and status (#2788)
-
-* Add license scan report and status
-
-Signed off by: fossabot &lt;badges@fossa.com&gt;
-
-Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
-
-* Remove License section from README
-
-Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
-
----------
-
-Signed-off-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;
-Co-authored-by: Andrey Velichkevich &lt;andrey.velichkevich@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4165eb</div>
-                                        <div class="message">fix(api): Regenerate TrainJob CRD (#2805)
-
-Signed-off-by: Antonin Stefanutti &lt;antonin@stefanutti.fr&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a728b3f</div>
-                                        <div class="message">chore(operator): Upgrade Kubernetes to v1.34 (#2804)
-
-Signed-off-by: Antonin Stefanutti &lt;antonin@stefanutti.fr&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a350fa0</div>
-                                        <div class="message">feat: support affinity in TrainJob pod spec overrides (#2796)
-
-Signed-off-by: Tsubasa Nagasawa &lt;toversus2357@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e62c45</div>
-                                        <div class="message">chore: Remove tool.hatch.build.targets.wheel from pyproject (#2803)
-
-Signed-off-by: kramaranya &lt;kramaranya15@gmail.com&gt;</div>
-                                    </div>
+                                    <div>opened by jaiakash in <span class="repo">kubeflow/sdk</span></div>
+                                    <div class="comment">/area sdk</div>
                                 </div>
                             </section>
                         </div>
