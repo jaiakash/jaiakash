@@ -1,46 +1,45 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches:
+      - main
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: PRODUCTION
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@master
         with:
-            # Your GitHub token
-            token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jaiakash
+          template: classic
+          base: activity
+          config_timezone: Asia/Calcutta
 
-            # Options
-            user: jaiakash
-            template: classic
-            base: activity
-            config_timezone: Asia/Calcutta
+          plugin_activity: yes
+          plugin_activity_days: 31
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
 
-            plugin_activity: yes
-            plugin_activity_days: 31
-            plugin_activity_filter: all
-            plugin_activity_limit: 5
-            plugin_activity_load: 300
+          # temporarily disable habits plugin to test
+          plugin_habits: no
 
-            plugin_habits: yes
+          plugin_followup: yes
+          plugin_followup_sections: repositories
 
-            plugin_followup: yes
-            plugin_followup_sections: repositories
+          plugin_lines: yes
 
-            plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: organization
 
-            plugin_notable: yes
-            plugin_notable_from: organization
-
-            plugin_languages: yes
-            plugin_languages_ignored: html, css
-            plugin_languages_skipped: true
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_skipped: true
