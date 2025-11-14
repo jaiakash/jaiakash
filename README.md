@@ -37,8 +37,9 @@
 
 <h3>🟦 2025</h3>
 <ul>
+  <li>Wrote a featured Kubecon and Kubeflow blog: <a href="https://blog.kubeflow.org/kubecon/community/2025/08/23/kubecon-2025-india-kubeflow.html">"KubeCon India 2025 with Kubeflow: Our Community Experience"</a>.</li>
   <li>Awarded <strong><a href="https://www.linuxfoundation.org/about/lift-scholarships">LiFT Scholarship</a></strong> scholarships by the Linux Foundation for open source contributions.</li>
-<!--   <li>Contributed to <strong>Google Summer of Code 2025</strong> under <strong>Kubeflow (CNCF)</strong>. <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">Project Link</a></li> -->
+  <li>Contributed to <strong>Google Summer of Code 2025</strong> under <strong>Kubeflow (CNCF)</strong>. <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">Project Link</a></li>
   <li>Wrote a featured CNCF blog: <a href="https://www.cncf.io/blog/2025/03/17/kubecon-cloudnativecon-india-2024-from-dreams-to-reality-journey/">"KubeCon + CloudNativeCon India 2024 – From Dreams to Reality"</a>.</li>
 </ul>
 
