@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋</h1>
-<h3 align="center">Application Developer - 1 @ Oracle</h3> 
+<h3 align="center">Software Engineer @ Oracle</h3> 
 <h3 align="center">Dev Ops | Web Developer | App Developer | NIT Trichy 2024</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<!--   <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow | -->
+  <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow |
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22</a> Contributor @CCExtractor |
 </p>
 
@@ -37,6 +37,7 @@
 
 <h3>🟦 2025</h3>
 <ul>
+  <li>Attended <a href="https://events.linuxfoundation.org/open-source-summit-korea/">Open Source Summit Korea</a>, along Open SSF and Open Search Con Korea, 2025. <a href="https://www.linkedin.com/posts/akashjaiswal03_opensourcesummit-openssf-opensearchcon-activity-7392580383554494465--Bow">Linkedin Post</a> Fully funded by Linux Foundation</li>
   <li>Wrote a featured Kubecon and Kubeflow blog: <a href="https://blog.kubeflow.org/kubecon/community/2025/08/23/kubecon-2025-india-kubeflow.html">"KubeCon India 2025 with Kubeflow: Our Community Experience"</a>.</li>
   <li>Awarded <strong><a href="https://www.linuxfoundation.org/about/lift-scholarships">LiFT Scholarship</a></strong> scholarships by the Linux Foundation for open source contributions.</li>
   <li>Contributed to <strong>Google Summer of Code 2025</strong> under <strong>Kubeflow (CNCF)</strong>. <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">Project Link</a></li>
