@@ -37,6 +37,9 @@
 
 <h3>🟦 2025</h3>
 <ul>
+  <li>Wrote CNCF blog on Open Source Korea, Open SSF and Open Search Con<a href="https://www.cncf.io/blog/2025/12/09/exploring-ai-observability-and-community-at-oss-summit-korea-2025/">
+    Exploring AI, Observability, and Community at OSS Summit Korea 2025
+  </a>.</li>
   <li>Attended <a href="https://events.linuxfoundation.org/open-source-summit-korea/">Open Source Summit Korea</a>, along Open SSF and Open Search Con Korea, 2025. <a href="https://www.linkedin.com/posts/akashjaiswal03_opensourcesummit-openssf-opensearchcon-activity-7392580383554494465--Bow">Linkedin Post</a> Fully funded by Linux Foundation</li>
   <li>Wrote a featured Kubecon and Kubeflow blog: <a href="https://blog.kubeflow.org/kubecon/community/2025/08/23/kubecon-2025-india-kubeflow.html">"KubeCon India 2025 with Kubeflow: Our Community Experience"</a>.</li>
   <li>Awarded <strong><a href="https://www.linuxfoundation.org/about/lift-scholarships">LiFT Scholarship</a></strong> scholarships by the Linux Foundation for open source contributions.</li>
