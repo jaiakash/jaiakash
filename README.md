@@ -37,6 +37,9 @@
 
 <h3>🟦 2025</h3>
 <ul>
+  <li>GDG Cloud Nagpur's live virtual session for GSoC 2026<a href="https://www.linkedin.com/posts/gdgcloud-nagpur_gsoc2026-googlesummerofcode-opensource-activity-7408419470513401857-s_GO">
+    Exploring AI, Observability, and Community at OSS Summit Korea 2025
+  </a>.</li>
   <li>Wrote CNCF blog on Open Source Korea, Open SSF and Open Search Con<a href="https://www.cncf.io/blog/2025/12/09/exploring-ai-observability-and-community-at-oss-summit-korea-2025/">
     Exploring AI, Observability, and Community at OSS Summit Korea 2025
   </a>.</li>
