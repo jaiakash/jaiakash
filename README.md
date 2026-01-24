@@ -28,10 +28,16 @@
   3x Startup Intern |
 </p>
 
-<h2 align="center">:zap: Recent Activity</h2>
-   <picture>
-    <img src="/github-metrics.svg" alt="Metrics">
-  </picture>
+<h2 align="center">:zap: Activity</h2>
+
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=33419526" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33419526&image_size=auto&color_scheme=dark" width="500" height="auto">
+      <img alt="Dashboard stats of @jaiakash" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33419526&image_size=auto&color_scheme=light" width="500" height="auto">
+    </picture>
+  </a>
+</p>
 
 <h2 align="center">Achievements</h2>
 
