@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋</h1>
-<h3 align="center">Software Engineer @ Oracle</h3> 
-<h3 align="center">Dev Ops | Web Developer | App Developer | NIT Trichy 2024</h3>
+<h3 align="center">Platform Engineer II @ Oracle — Cloud Native & AI, MLOps</h3> 
+<h3 align="center">Kubernetes & DevOps | AI Infrastructure (Kubeflow, OCI) | Open Source Lead & Speaker</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiakash&style=flat-square" alt="Profile Views" />
@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+  <a href="https://summerofcode.withgoogle.com/programs/2026/projects/B2R4GHab">GSoC'26</a> Mentor @KubeFlow (MCP) |
   <a href="https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0">GSoC'25</a> Contributor @KubeFlow |
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22</a> Contributor @CCExtractor |
 </p>
@@ -25,7 +26,6 @@
 <p align="center">
   Project Intern <a href="https://github.com/oracle">@Oracle</a> |
   Founding Engineer DharmikApp and Connectezy-App
-  3x Startup Intern |
 </p>
 
 <h2 align="center">:zap: Activity</h2>
@@ -40,6 +40,17 @@
 </p>
 
 <h2 align="center">Achievements</h2>
+
+<h3>🟥 2026</h3>
+<ul>
+  <li>Google Summer of Code 2026 Mentor for the <strong><a href="https://summerofcode.withgoogle.com/programs/2026/projects/B2R4GHab"> Kubeflow MCP project.</a></strong></li>
+  <li>Selected as an Ambassador for the <strong><a href="https://aaif.io/ambassadors/#list">Agentic AI Foundation (AAIF)</a></strong>, helping advance open standards for agentic AI architectures.</li>
+  <li>Spoke at <strong><a href="https://www.linkedin.com/posts/akashjaiswal03_ossindia-kubeflow-mcp-activity-7473991600734363648-1vj1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT2QEUBNmtS9VZzx95JA1g7ebYXa-oO4uM">Open Source Summit India 2026</a></strong>, presenting on Kubeflow and Model Context Protocol (MCP) integration.</li>
+  <li>Insights on Kubeflow SDK developer experience <strong><a href="https://blog.kubeflow.org/kubeflow-sdk-user-survey-insights/">Kubeflow SDK User Survey Blog</a></strong>.</li>
+  <li>Attended <strong><a href="https://www.linkedin.com/posts/akashjaiswal03_kubecon-cloudnativecon-cncf-activity-7476279591708381184-WnGk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT2QEUBNmtS9VZzx95JA1g7ebYXa-oO4uM">KubeCon + CloudNativeCon India 2026</a></strong> representing the Kubeflow community.</li>
+  <li>Delivered a session on GSoC and Open Source at <strong><a href="https://www.linkedin.com/posts/akashjaiswal03_techfusion2026-opensource-gsoc-activity-7445924445753503744-ffCN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACT2QEUBNmtS9VZzx95JA1g7ebYXa-oO4uM">TechFusion Summit 2026 (GDG Cloud Nagpur)</a></strong>.</li>
+  <li>Blog on local GPU-accelerated Kubernetes setups: <strong><a href="https://gpu-k8s-cluster-with-kind-nvkind.hashnode.dev/spin-up-gpu-enabled-k8s-locally-with-kind-and-nvkind-in-minutes">Spin Up GPU-Enabled K8s Locally with KinD and nvkind</a></strong>.</li>
+</ul>
 
 <h3>🟦 2025</h3>
 <ul>
@@ -56,7 +67,12 @@
   <li>Wrote a featured CNCF blog: <a href="https://www.cncf.io/blog/2025/03/17/kubecon-cloudnativecon-india-2024-from-dreams-to-reality-journey/">"KubeCon + CloudNativeCon India 2024 – From Dreams to Reality"</a>.</li>
 </ul>
 
-<h3>🟩 2024</h3>
+
+
+<details>
+  <summary><b>Show 2024 & Earlier Achievements</b></summary>
+
+  <h3>🟩 2024</h3>
 <ul>
   <li>Selected as a <strong>Mentor</strong> at <a href="https://www.linkedin.com/posts/hackthisfall_hackthisfallvirtual-hackthisfall-htfcommunity-activity-7260329712516747264-ROSL?utm_source=share&utm_medium=member_desktop">Hack This Fall Hackathon</a>, mentoring developers in ideation and execution.</li>
   <li>Invited as a <strong>GSoC Speaker</strong> at the <a href="https://www.linkedin.com/posts/gdgcnits_gdsc-gdscnits-gdscnitt-activity-7119343964385673216-Txva?utm_source=share&utm_medium=member_desktop">GDSC GSoC event</a>, sharing insights on open source journey.</li>
@@ -67,22 +83,25 @@
   <li>Conducted "Git it Done" sessions at <strong>GDSC NIT Silchar</strong> and <strong>GDSC NIT Trichy</strong> with 200+ participants. <a href="https://www.youtube.com/watch?v=hUftYgmZopY">Watch</a></li>
 </ul>
 
-<h3>🟨 2023</h3>
-<ul>  
-  <li>Selected as a <strong>Microsoft Learn Student Ambassador (MLSA)</strong>. <a href="https://www.linkedin.com/posts/akashjaiswal03_microsoft-india-experience-activity-6986299246236872704-C49v?utm_source=share&utm_medium=member_desktop">Details</a></li>
-  <li>Led <strong><a href="https://www.instagram.com/tecos.nitt/">TeCOS</a></strong>, the NIT Trichy open source community, growing it from 200+ to 1000+ active members.</li>
-  <li>Awarded a fully funded scholarship by <strong>IIIT Hyderabad</strong> and the <strong>Wikimedia Foundation</strong> to attend the 2nd Wikimedia Technology Summit.</li>
-</ul>
+  <h3>🟨 2023</h3>
+  <ul>  
+    <li>Selected as a <strong>Microsoft Learn Student Ambassador (MLSA)</strong>. <a href="https://www.linkedin.com/posts/akashjaiswal03_microsoft-india-experience-activity-6986299246236872704-C49v?utm_source=share&utm_medium=member_desktop">Details</a></li>
+    <li>Led <strong><a href="https://www.instagram.com/tecos.nitt/">TeCOS</a></strong>, the NIT Trichy open source community, growing it from 200+ to 1000+ active members.</li>
+    <li>Awarded a fully funded scholarship by <strong>IIIT Hyderabad</strong> and the <strong>Wikimedia Foundation</strong> to attend the 2nd Wikimedia Technology Summit.</li>
+  </ul>
 
-<h3>⬜ Earlier Achievements</h3>
-<ul>
-  <li>Contributor at <strong>CCExtractor</strong> during <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">Google Summer of Code 2022</a>, selected from 4000+ applicants across 96 countries.</li>
-  <li>2nd prize in <strong>Covalent Technical Bounty</strong> – Inter NIT Conclave-X 2022. Built an NFT data tool using Covalent APIs.</li>
-  <li>1st prize in <strong>Crypto Trader</strong> – Cogni 2022, IIT Roorkee and 2nd prize in <strong>CryptoCon</strong> – Rendezvous 2022, IIT Delhi.</li>
-  <li>Completed <strong>Kharagpur Winter of Code 2021</strong> with 5+ open source contributions. <a href="https://kwoc21.kossiitkgp.org/stats/student/jaiakash">Profile</a></li>
-  <li>3rd place in both <strong>ICY Cup</strong> and <strong>Code Connoisseurs</strong>, NIT Trichy, 2021.</li>
-  <li>Global Rank 194 (Div. 2) in CodeChef <a href="https://www.codechef.com/rankings/ICM2021B?itemsPerPage=100&order=asc&page=1&search=akashjaiswal03&sortBy=rank">International Coding Marathon, IIT BHU 2021</a>.</li>
-</ul>
+  <h3>⬜ Earlier Achievements</h3>
+  <ul>
+    <li>Contributor at <strong>CCExtractor</strong> during <a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">Google Summer of Code 2022</a>, selected from 4000+ applicants across 96 countries.</li>
+    <li>2nd prize in <strong>Covalent Technical Bounty</strong> – Inter NIT Conclave-X 2022. Built an NFT data tool using Covalent APIs.</li>
+    <li>1st prize in <strong>Crypto Trader</strong> – Cogni 2022, IIT Roorkee and 2nd prize in <strong>CryptoCon</strong> – Rendezvous 2022, IIT Delhi.</li>
+    <li>Completed <strong>Kharagpur Winter of Code 2021</strong> with 5+ open source contributions. <a href="https://kwoc21.kossiitkgp.org/stats/student/jaiakash">Profile</a></li>
+    <li>3rd place in both <strong>ICY Cup</strong> and <strong>Code Connoisseurs</strong>, NIT Trichy, 2021.</li>
+    <li>Global Rank 194 (Div. 2) in CodeChef <a href="https://www.codechef.com/rankings/ICM2021B?itemsPerPage=100&order=asc&page=1&search=akashjaiswal03&sortBy=rank">International Coding Marathon, IIT BHU 2021</a>.</li>
+  </ul>
+</details>
+
+
 
 
 
@@ -91,20 +110,5 @@
 <p align="center">
   <a href="mailto:akashjaiswal3846@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/akashjaiswal03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://forum.xda-developers.com/m/akashjaiswal03.8802760/">
-    <img src="https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA Developers">
-  </a>
-  <a href="http://facebook.com/AkashJaiswal03">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/a_kashhhhhh_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.quora.com/profile/Akash-Jaiswal-116">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora">
   </a>
 </p>
