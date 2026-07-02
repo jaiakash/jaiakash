@@ -105,10 +105,16 @@
 
 
 
-<h2 align="center">Find me on</h2>
+<h2 align="center">Contact & Resume</h2>
 
 <p align="center">
   <a href="mailto:akashjaiswal3846@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/akashjaiswal03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/jaiakash/resume-akashjaiswal/blob/main/AkashJaiswal_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
   </a>
 </p>
