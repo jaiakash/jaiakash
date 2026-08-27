@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone, I am Akash Jaiswal 👋</h1>
 <h3 align="center">Platform Engineer II @ Oracle — Cloud Native & AI, MLOps</h3> 
-<h3 align="center">Kubernetes & DevOps | AI Infrastructure (Kubeflow, OCI) | Open Source Lead & Speaker</h3>
+<h3 align="center">Kubernetes & DevOps | AI Infrastructure | Open Source Lead & Speaker</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiakash&style=flat-square" alt="Profile Views" />
